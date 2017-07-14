@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/active-directory-javascript-graphapi-v2/JavaScriptSPA/bin
+/active-directory-javascript-graphapi-v2/JavaScriptSPA/obj/Debug
+/active-directory-javascript-graphapi-v2/packages
